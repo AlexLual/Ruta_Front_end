@@ -33,7 +33,7 @@ body {
 	transition: .5s;
 	display: block;
 
-	border-bottom: 1px solid #9799A6;
+	border-bottom: 1px solid #0423ea;
 }
 
 .contenidoPrincipal {
@@ -225,7 +225,7 @@ body {
 	}
 
 	.headerPrincipal-nav-link:hover {
-		color: #FFF;
+		color: rgb(224, 23, 23)48, 33, 33);
 		background-color: #9799A6;
 	}
 
